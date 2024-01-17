@@ -1,0 +1,4 @@
+/recipients/data
+/data/*
+!/data/.gitkeep
+
